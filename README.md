@@ -61,6 +61,6 @@ The projects demonstrate strong capabilities in data preprocessing, statistical 
 - Translated data insights into actionable recommendations  
 
 
-##  Contact
+##  Author
 **Venkata Sai Reddy Peddireddy**  
 Data Analyst | SQL | Python | Power BI  
